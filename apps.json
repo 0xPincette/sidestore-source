@@ -1,0 +1,28 @@
+{
+  "name": "Pincette Apps",
+  "identifier": "io.github.0xpincette.source",
+  "subtitle": "Personal iOS apps",
+  "description": "Personal builds, published from each app repo's release tags.",
+  "iconURL": "https://0xpincette.github.io/sidestore-source/icons/source.png",
+  "website": "https://github.com/0xPincette/sidestore-source",
+  "tintColor": "#E8B04A",
+  "apps": [
+    {
+      "name": "Command Desk",
+      "bundleIdentifier": "com.hermes.commanddesk.ios",
+      "developerName": "0xPincette",
+      "subtitle": "Agent command desk",
+      "localizedDescription": "SwiftUI client for a self-hosted agent dashboard. Enter your server URL in Settings on first launch.",
+      "iconURL": "https://0xpincette.github.io/sidestore-source/icons/command-desk.png",
+      "tintColor": "#E8B04A",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
