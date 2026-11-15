@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "4",
+          "date": "2026-11-15T18:32:56Z",
+          "localizedDescription": "Projects home: each project shows its latest brief, what needs you and a chat box. Run or fix a brief that failed.",
+          "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.2.0-4.ipa",
+          "size": 1092441,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "3",
           "date": "2026-11-15T10:13:22Z",
@@ -41,11 +50,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.1.0",
-      "versionDate": "2026-11-15T10:13:22Z",
-      "versionDescription": "Chats: browse, search, start a new chat and send with a live reply. Links open a chat or an ask.",
-      "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.1.0-3.ipa",
-      "size": 904857
+      "version": "1.2.0",
+      "versionDate": "2026-11-15T18:32:56Z",
+      "versionDescription": "Projects home: each project shows its latest brief, what needs you and a chat box. Run or fix a brief that failed.",
+      "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.2.0-4.ipa",
+      "size": 1092441
     }
   ],
   "news": []
