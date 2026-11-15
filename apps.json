@@ -19,6 +19,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "3",
+          "date": "2026-11-15T10:13:22Z",
+          "localizedDescription": "Chats: browse, search, start a new chat and send with a live reply. Links open a chat or an ask.",
+          "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.1.0-3.ipa",
+          "size": 904857,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "2",
           "date": "2026-11-14T17:39:05Z",
@@ -32,11 +41,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.0",
-      "versionDate": "2026-11-14T17:39:05Z",
-      "versionDescription": "First release",
-      "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.0.0-2.ipa",
-      "size": 569283
+      "version": "1.1.0",
+      "versionDate": "2026-11-15T10:13:22Z",
+      "versionDescription": "Chats: browse, search, start a new chat and send with a live reply. Links open a chat or an ask.",
+      "downloadURL": "https://0xpincette.github.io/sidestore-source/ipa/com.hermes.commanddesk.ios-1.1.0-3.ipa",
+      "size": 904857
     }
   ],
   "news": []
